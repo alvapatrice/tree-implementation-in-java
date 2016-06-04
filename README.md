@@ -1,1 +1,2 @@
 # tree-implementation-in-java
+This directory contains classes for implementation of tree datastructure. I have used recursion and HashMap in these classes in order to achieve on some functions, Hope you have some knowledge about them. two traversal strategies are have been implemented, each time I visit a node I store its value in the hashmap and do that recursively, after visiting every node i print the data in the hashmap. 
